@@ -1,0 +1,6 @@
+framework module Pods_BLETptDemo {
+  umbrella header "Pods-BLETptDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
